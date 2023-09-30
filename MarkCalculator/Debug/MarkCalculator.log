@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\g00410483\OneDrive - Atlantic TU\Procedural Programming\MarkCalculator\MarkCalculator\Source.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\g00410483\OneDrive - Atlantic TU\Procedural Programming\MarkCalculator\MarkCalculator\Source.cpp(22,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\g00410483\OneDrive - Atlantic TU\Procedural Programming\MarkCalculator\MarkCalculator\Source.cpp(13,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\g00410483\OneDrive - Atlantic TU\Procedural Programming\MarkCalculator\MarkCalculator\Source.cpp(16,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\g00410483\OneDrive - Atlantic TU\Procedural Programming\MarkCalculator\MarkCalculator\Source.cpp(19,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MarkCalculator.vcxproj -> C:\Users\g00410483\OneDrive - Atlantic TU\Procedural Programming\MarkCalculator\Debug\MarkCalculator.exe
